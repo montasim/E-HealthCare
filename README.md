@@ -35,7 +35,7 @@
 
 <h1 align="left"> App Name :  E-HealthCare </h1>
 
-<h3 align="left"> A health care android application </h3>
+<h3 align="left"> A health care android application. Call a doctor, ambulance, and fire service when an emergency. </h3>
 
 
 <br>
